@@ -32,7 +32,7 @@ screen confirm(message, yes_action, no_action):
             spacing 100
 
             textbutton _("Дa") action yes_action
-            textbutton _("No") action no_action
+            textbutton _("Нет") action no_action
 
 
     key "game_menu" action no_action
