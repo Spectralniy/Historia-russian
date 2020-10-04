@@ -1,0 +1,18 @@
+init python:
+    renpy.music.register_channel("ad_bg_1", mixer="sfx", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_bg_2", mixer="sfx", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_bg_3", mixer="sfx", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_bg_4", mixer="sfx", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_bg_5", mixer="sfx", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_bg_6", mixer="sfx", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_bg_7", mixer="sfx", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_fg_1", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_fg_2", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_fg_3", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_fg_4", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_fg_5", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_fg_6", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_fg_7", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("ad_fg_8", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+    renpy.music.register_channel("music_2", mixer="music", loop=None, stop_on_mute=True, tight=True, file_prefix='', file_suffix='', buffer_queue=True)
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
